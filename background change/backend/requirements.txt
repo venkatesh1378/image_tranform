@@ -1,1 +1,13 @@
+# Core Requirements
+Flask==3.0.2
+rembg==2.0.50
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+Werkzeug==3.0.1
 
+# Optional for Future Development (not required for current version)
+# tensorflow==2.15.0
+# torch==2.1.2
+# torchvision==0.16.2
+# scikit-image==0.22.0
